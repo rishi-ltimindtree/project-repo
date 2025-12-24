@@ -17,4 +17,4 @@ spec:
     spec:
       containers:
       - image: public.ecr.aws/t7w6k2i1/mindtree:latest
-        name: mindtree
+        name: project
