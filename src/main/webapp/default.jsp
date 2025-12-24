@@ -28,7 +28,7 @@
   <body>
     <tagfiles:header />
     <div id="hate" class="container snakes snake-hater">
-      <h1 class="cover-heading">hello mindtree hello lti hello world
+      <h1 class="cover-heading">now again say welcome to mindtree
 ?</h1>
       <p class="lead">A safety resource for snake haters.</p>
       <!--Intro -->
