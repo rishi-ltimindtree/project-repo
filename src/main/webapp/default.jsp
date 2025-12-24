@@ -28,7 +28,7 @@
   <body>
     <tagfiles:header />
     <div id="hate" class="container snakes snake-hater">
-      <h1 class="cover-heading">welcome to mindtrnn
+      <h1 class="cover-heading">welcome to mindtrnsssn
 ?</h1>
       <p class="lead">A safety resource for snake haters.</p>
       <!--Intro -->
@@ -82,5 +82,6 @@
     <script src="js/init.js"></script>
   </body>
 </html>
+
 
 
