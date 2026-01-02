@@ -23,4 +23,4 @@ if [ -d "/Library/Tomcat/webapps" ]; then
 fi
 mv ROOT.war ../
 echo .
-echo "SUCCESS"
+echo "SUCCESS" 
