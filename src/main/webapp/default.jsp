@@ -28,8 +28,7 @@
   <body>
     <tagfiles:header />
     <div id="hate" class="container snakes snake-hater">
-      <h1 class="cover-heading">now again say welcome to mindtree
-?</h1>
+      <h1 class="cover-heading">Welcome to mindtree</h1>
       <p class="lead">A safety resource for snake haters.</p>
       <!--Intro -->
       <h2>we like snake a lot ?</h2>
@@ -82,6 +81,7 @@
     <script src="js/init.js"></script>
   </body>
 </html>
+
 
 
 
